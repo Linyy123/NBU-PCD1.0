@@ -1,5 +1,5 @@
-# NBU-PCD1.0
-This is an introduction of colorful point cloud subjective database (NBU-PCD1.0), and it will be publicly available in the future for the academic demands. Please contact Gangyi Jiang (jgyvciplab@126.com) to get the request of the NBU-PCD1.0 database and the corresponding password!
+# NBU-CPCD1.0
+This is an introduction of colorful point cloud subjective database (NBU-CPCD1.0), and it will be publicly available in the future for the academic demands. Please contact Gangyi Jiang (jgyvciplab@126.com) to get the request of the NBU-CPCD1.0 database and the corresponding password!
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------ Copyright (c) 2019 The Ningbo University All rights reserved.
 
